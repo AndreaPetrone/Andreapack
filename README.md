@@ -1,4 +1,4 @@
-# Andreapack
+# andreapack
 
 
 ## Description of the package 

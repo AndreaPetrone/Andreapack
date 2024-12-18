@@ -1,19 +1,3 @@
-function(x) {
-  if(x>0){
-  print("this is a positive number")
-  }
-  else print("this is a negative number") 
-  } 
-
-
-complex <- function(x) {
-  if(x>0){
-  print("this is a positive number")
-  }
-  else print("this is a negative number") 
-  } 
-
-
 complex <- function(x) {
   if (x>0) {
   print("this is a positive number")

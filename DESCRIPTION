@@ -1,0 +1,16 @@
+Package: Andreapack 
+Type: Package 
+Title: How to build a package 
+Version: 0.1 
+Author: Andrea Petrone 
+Maintainer: The package maintainer <andrea.petrone@studio.unibo.it>
+Description: this package is using simple functions for a first development example 
+Encoding: UTF-8
+Language: en-GB
+License: GPL (>=2)
+Depends: R (>=4.0.0)
+Imports: devtools 
+Suggests: knitr
+Config/testthat/edition: 3
+NeedsCompilation: no
+Packaged: 2024-12-18 15:12 UTC; andreapetrone
